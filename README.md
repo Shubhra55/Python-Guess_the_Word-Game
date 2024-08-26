@@ -1,6 +1,6 @@
 # Guess_the_Word-Game-in-Python
 
-# This repository contains a Python word guessing game. The game attempts to guess the word you’re thinking of by asking a set of questions. It uses a list of words  from random_word_generator.py for guessing. You can run it using:
+# This repository contains a Python word guessing game.It uses a list of words  from random_word_generator.py for the word to be guessed.You can run it using:
 
 py main.py
 
